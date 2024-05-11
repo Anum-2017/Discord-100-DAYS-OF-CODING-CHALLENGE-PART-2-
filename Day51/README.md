@@ -3,7 +3,7 @@
 
 # Day-51:
 
-Read the following article: 
+## Read the following article: 
 [Top 10 Programming Tips For Beginners](https://www.geeksforgeeks.org/programming-tips-for-beginners/)
 
 
