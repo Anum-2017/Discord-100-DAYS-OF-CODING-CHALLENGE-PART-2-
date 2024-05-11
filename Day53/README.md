@@ -1,7 +1,7 @@
 
 #  Day-53 : 
 
-## Watch the following video to learn about Chrome DevTools, and try to edit any website, and use devtools console:
+### Watch the following video to learn about Chrome DevTools, and try to edit any website, and use devtools console:
 
 ## Fun & powerful: Intro to Chrome DevTools 
 
