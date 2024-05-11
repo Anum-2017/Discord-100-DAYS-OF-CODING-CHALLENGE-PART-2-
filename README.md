@@ -16,4 +16,4 @@ https://github.com/Anum-2017/Discord-100-Days-Of-Coding-Challenge-Part-1.git
 
 *Please Star the Repositry🌟*
 
-**#100DaysOfCode #CodeToLearn #LearningJourney**
+**#100DaysOfCode            #CodeToLearn               #LearningJourney**
