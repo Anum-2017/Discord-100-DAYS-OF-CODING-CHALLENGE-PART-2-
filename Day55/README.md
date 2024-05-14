@@ -25,7 +25,9 @@ Read the following Articles and Code along with it:
    
 ## The typeof operator allows us to see which type is stored in a variable.
    -> Usually used as typeof x, but typeof(x) is also possible.
+   
    -> Returns a string with the name of the type, like "string".
+   
    -> For null returns "object" – this is an error in the language, it’s not actually an object.
 
 
