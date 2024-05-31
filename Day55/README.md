@@ -1,7 +1,7 @@
 ## Day-55 Task: 
 
-# Read the following Articles and Code along with it:
+Read the following Articles and Code along with it:
 
-## [Type Conversions in JavaScript](https://javascript.info/type-conversions)
+[Data Types in JavaScript](https://javascript.info/types)
 
-## [Operators in JavaScript](https://javascript.info/operators)
+[Interaction: alert, prompt, confirm in JavaScript](https://javascript.info/alert-prompt-confirm)
