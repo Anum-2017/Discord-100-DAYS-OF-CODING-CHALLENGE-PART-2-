@@ -1,6 +1,6 @@
-**Day-57 Task:**
+# Day-57 Task:
 
-Read the following Articles and Code along with it:
+## Read the following Articles and Code along with it:
 
 [Comparisons in JavaScript](https://javascript.info/comparison)
 
