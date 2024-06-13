@@ -1,0 +1,12 @@
+{
+  "name": "day66",
+  "version": "1.0.0",
+  "description": "Annotating a variable with union types means specifying that the variable can hold values of multiple types. Union types in TypeScript are denoted using the `|` symbol between the types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
